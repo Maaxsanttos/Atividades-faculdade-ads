@@ -1,0 +1,16 @@
+# Projeto que ja esta no GitHub
+ONG-Esperan*a/
+
+# Configuracoes do VS Code
+.vscode/
+
+# Arquivos compilados
+*.exe
+*.o
+*.obj
+*.out
+
+# Arquivos temporarios e privados
+*.tmp
+.env
+.env.*
