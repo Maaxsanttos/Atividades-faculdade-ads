@@ -18,7 +18,7 @@ Montei o diagrama usando o draw.io, com cinco entidades:
 - **Horário de Atendimento:** data e horário relacionados ao barbeiro.
 - **Agendamento:** ligação entre cliente, serviço e horário, além da situação do agendamento.
 
-![DER da Barbearia Dom Caverna](DER-Barbearia-Dom-Caverna.png)
+**Imagem do DER:** arquivo `DER-Barbearia-Dom-Caverna.png` (a ser adicionado a esta pasta).
 
 ## Relacionamentos
 
