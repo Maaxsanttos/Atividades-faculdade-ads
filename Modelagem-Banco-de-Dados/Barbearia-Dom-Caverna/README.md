@@ -31,7 +31,7 @@ Montei o diagrama usando o draw.io, com cinco entidades:
 
 Na atividade, analisei o modelo considerando a 1ª, 2ª e 3ª Formas Normais (1FN, 2FN e 3FN). Os dados dos clientes, barbeiros e serviços ficam separados, e os agendamentos usam chaves estrangeiras para fazer as ligações. Não foi necessário criar novas tabelas nessa etapa.
 
-## Regras consideradas
+## Regras do agendamento
 
 - O CPF deve ser único para evitar cadastros duplicados.
 - Cada agendamento tem um cliente, um serviço e um horário.
